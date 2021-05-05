@@ -1,0 +1,25 @@
+{
+  "places": [
+    {
+      "description": "Esta es la descripcion de la casa de Lexfer ",
+      "name": "Lexfer's House",
+      "geometry": [10.45208, -66.79343]
+    },
+
+    {
+      "description": "Esta es la descripcion del Hotel Lido.",
+      "name": "lidotel hotel boutique",
+      "geometry": [10.491342, -66.8621236]
+    },
+    {
+      "description": "Esta es la descripcion de Seguros Piramide. ",
+      "name": "Seguros Piramide",
+      "geometry": [10.4904358, -66.86274]
+    },
+    {
+      "description": "Esta es la descripcio de la Quinta Esmeralda. ",
+      "name": "Quinta Esmeralda",
+      "geometry": [10.4930643, -66.8637552]
+    }
+  ]
+}
